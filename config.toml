@@ -1,0 +1,71 @@
+baseURL = "https://mecgoonline.github.io/"
+languageCode = "en-us"
+title = "MEC Online Learning"
+theme = "hugo-theme-learn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+#and corner of every page. 
+  # Useful to give opportunity to people to create merge request for your doc.
+  # See the config.toml file from this documentation site to have an example.
+  editURL = ""
+  # Author of the site, will be used in meta information
+  author = "Abdellah"
+  # Description of the site, will be used in meta information
+  description = ""
+  # Shows a checkmark for visited pages on the menu
+  showVisitedLinks = false
+  # Disable search function. It will hide search bar
+  disableSearch = false
+  # Javascript and CSS cache are automatically busted when new version of site is generated. 
+  # Set this to true to disable this behavior (some proxies don't handle well this optimization)
+  disableAssetsBusting = false
+  # Set this to true to disable copy-to-clipboard button for inline code.
+  disableInlineCopyToClipBoard = false
+  # A title for shortcuts in menu is set by default. Set this to true to disable it. 
+  disableShortcutsTitle = false
+  # When using mulitlingual website, disable the switch language button.
+  disableLanguageSwitchingButton = false
+  # Hide breadcrumbs in the header and only show the current page title
+  disableBreadcrumb = true
+  # Hide Next and Previous page buttons normally displayed full height beside content
+  disableNextPrev = true
+  # Order sections in menu by "weight" or "title". Default to "weight"
+  ordersectionsby = "weight"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "red"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repo"
+identifier = "ds"
+url = "https://github.com/mecgoonline"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-bookmark'></i> MEC LaGuardia Website"
+identifier = "hugodoc"
+url = "https://www.laguardia.edu/mec"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-facebook-square'></i> MEC Facebook Page"
+identifier = "face"
+url = "https://www.facebook.com/MEC.LaGuardia/"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-slack-hash'></i> MAE Slack"
+identifier = "slack"
+url = "https://join.slack.com/t/lagccmaelab/shared_invite/zt-jif8e1dy-5el1zi0QyfNeta1vYoNjQA"
+weight = 30
+
+
+[menu]
+
+[[menu.main]]
+parent = "engineering"
+name = "MAE100"
+url = "/engineering/MAE100.md"

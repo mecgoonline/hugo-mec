@@ -1,0 +1,35 @@
++++
+title = "Engineering"
+date = 2020-03-17T18:13:11-04:00
+weight = 2
+chapter = true
+pre = "<b>2. </b>"
++++
+
+### Engineering & Energy Technology
+
+# Online Resources
+
+> The rapid development of engineering software and mobile applications makes it possible for engineers to have tools and solutions at their fingertips. Select a course to see a list of available online resources and Tools: 
+
+1. [MAE 100 - Computer-Aided Design](courses/mae100)
+2. [MAE 101 - Engineering Lab I](courses/mae101)
+3. [MAE 102 - Electrical Drafting and Blue Print Reading](courses/mae102) 
+4. [MAE 107 - Manufacturing Processes](courses/mae107)
+5. [MAE 109 - Introduction to Engineering](courses/mae109)
+6. [MAE 110 - Circuit Analysis I](courses/mae110)
+7. [MAE 111 - Circuit Analysis II](courses/mae111)
+8. [MAE 121 - Instrumentation ](courses/mae121)
+9. [MAE 122 - Electrical Measurements and Instrumentation](courses/mae122)
+10. [MAE 191 - Statics and Strength of Materials ](courses/mae191)
+11. [MAE 207 - Introduction to Thermodynamics for Technicians](courses/mae207)
+12. [MAE 208 - Electromechanical Devices ](courses/mae208)
+13. [MAE 209 - Structural and Site Plans ](courses/mae209)
+14. [MAE 211 - Engineering Mechanics: Statics](courses/mae211)
+15. [MAE 213 - Electrical Circuits I ](courses/mae213)
+16. [MAE 219 - Thermodynamics I]
+17. [MAE 230 - Senior Design Project]
+
+
+
+
