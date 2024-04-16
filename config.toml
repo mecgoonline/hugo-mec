@@ -39,28 +39,42 @@ home = [ "HTML", "RSS", "JSON"]
   themeVariant = "red"
 
 [[menu.shortcuts]] 
-name = "<i class='fab fa-github'></i> Github repo"
-identifier = "ds"
-url = "https://github.com/mecgoonline"
+name = "<i class='fas fa-comments'></i> Slack Workspace"
+#identifier = "hugodoc"
+url = "https://join.slack.com/t/lagccmaelab/shared_invite/zt-n8ztfkt2-WxUo~FAy3mwd4Vkdgv3gxA"
+weight = 5
+
+
+[[menu.shortcuts]] 
+name = "<i class='fas fa-building'></i> Civil Engineering Major"
+#identifier = "ds"
+url = "https://www.laguardia.edu/majors/civil-engineering/"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-bookmark'></i> MEC LaGuardia Website"
-identifier = "hugodoc"
-url = "https://www.laguardia.edu/mec"
+name = "<i class='fa fa-microchip'></i> Electrical Engineering Major"
+#identifier = "ds"
+url = "https://www.laguardia.edu/majors/electrical-engineering/"
 weight = 20
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-facebook-square'></i> MEC Facebook Page"
-identifier = "face"
-url = "https://www.facebook.com/MEC.LaGuardia/"
+name = "<i class='fa fa-bolt'></i> Energy Technician Major"
+#identifier = "ds"
+url = "https://www.laguardia.edu/majors/energy-technician-electrical/"
 weight = 30
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-slack-hash'></i> MAE Slack"
-identifier = "slack"
-url = "https://join.slack.com/t/lagccmaelab/shared_invite/zt-jif8e1dy-5el1zi0QyfNeta1vYoNjQA"
-weight = 30
+name = "<i class='fab fa-slack-hash'></i> Mechanical Engineering"
+#identifier = "ds"
+url = "https://www.laguardia.edu/majors/mechanical-engineering"
+weight = 40
+
+[[menu.shortcuts]]
+name = "<i class='fa fa-globe'></i> Engineering: Earth System Science"
+#identifier = "ds"
+url = "https://www.laguardia.edu/majors/earth-system-science/"
+weight = 50
+
 
 
 [menu]

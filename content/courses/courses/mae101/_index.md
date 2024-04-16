@@ -73,10 +73,10 @@ In this section, its application will be extended to the analysis of a simple tr
 
 **SAP2000 Software**
 
-Please follow these steps to download, install, and activate your software.
-1. Download {{% button href="https://www.csiamerica.com/software/SAP2000/23/SAP2000v2300StudentSetup.exe" icon="fas fa-download" %}}Get SAP2000 Student Version{{% /button %}}.
-2. Run the installation.
-3. After installation is done use the following [zip file](/engineering/courses/mae101/docs/SAP2000_Student_23_lservrc.zip) to activate the software: unzip and extract the license into the SAP2000 23 ED folder (where the executable is located). Overwrite the existing license file with the new one.
+CSI introduced a cloud sign-in in the new version of SAP2000, where students will need to sign-in in order to activate the software.Please follow these steps to download and activate your software.
+1. Download {{% button href="https://www.csiamerica.com/software/SAP2000/25/SAP2000v2520Setup.exe" icon="fas fa-download" %}}Get SAP2000 Student Version{{% /button %}}.
+2. Fill out the following form to request an account [CSI Account Request](https://forms.gle/Q4tE7DEGyrSXuKp98)
+3. After Installation run the program and login using the email you provided
 
 {{% notice note %}}
 SAP2000 programs cannot be run directly within the Mac operating system. However, if Windows operating system is virtualized on the Mac machine (via virtualization platforms such as Parallels or [VirtualBox](https://www.virtualbox.org/wiki/Downloads)) then SAP2000 programs can be run within such virtualized Windows operating system.

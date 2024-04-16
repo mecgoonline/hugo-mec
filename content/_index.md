@@ -1,13 +1,17 @@
-# Welcome to MEC Distance Learning Resources Website
+# Engineering Program at LaGuardia Community College
 
-Distance learning courses can be quite varied in their overall approach to the teaching and learning process, but they often have certain characteristics in common. In most online courses, students use a computer to connect to a course site on the internet. Standard classroom books and printed materials are typically used in combination with online lectures, assignments, and supplementary course materials. Some courses have formal lectures, similar in length and content to lectures given in face-to-face classes.
+We are excited to have you here, and are committed to providing you with the tools that can help you with your engineering courses and labs.  we've put together a list of resources to help you in the classroom and beyond. The Engineering Student Success Team is here to help you. 
 
-### Online Tutoring 
 
-Need tutoring check our Online Booking & Appointment Scheduling system to Schedule a tutoring session.
+### Degree and Program 
 
-{{% button href="https://outlook.office365.com/owa/calendar/MACClassRSVP@CUNY907.onmicrosoft.com/bookings/" %}}Schedule a tutoring session{{% /button %}}
+- [Civil Engineering](https://www.laguardia.edu/majors/civil-engineering/)
+- [Electrical Engineering](https://www.laguardia.edu/majors/electrical-engineering/)
+- [Energy Technician](https://www.laguardia.edu/majors/energy-technician-electrical/)
+- [Mechanical Engineering](http://www.laguardia.edu/majors/mechanical-engineering)
+- [Mechanical Engineering: Earth System Science and Environmental Engineering Option](http://www.laguardia.edu/majors/mechanical-engineering)
 
-### Online Support 
 
-we want to be sure you can find the answers you need, when you need them. If you’re unsure where to turn, {{% button href="https://services.laguardia.edu/SubmitSR.jsp?populateSR_id=221650" %}}Submit a Ticket{{% /button %}} or book a zoom session for one to one support via the {{% button href="https://outlook.office365.com/owa/calendar/MECLabTech@CUNY907.onmicrosoft.com/bookings/" %}}Technical Support Bookling System{{% /button %}}
+### Online Support
+
+We want to be sure you can find the answers you need, when you need them. If you’re unsure where to turn, Join our engineering slack workspcase from here {{% button href="https://join.slack.com/t/lagccmaelab/shared_invite/zt-n8ztfkt2-WxUo~FAy3mwd4Vkdgv3gxA" %}}Engineering Slack Link{{% /button %}}

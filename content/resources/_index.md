@@ -1,10 +1,12 @@
----
-title: "Student Software Resources"
-date: 2020-03-24T22:37:30-04:00
-weight: 2
----
++++
+title = "Engineering Resources"
+date = 2020-03-17T18:13:11-04:00
+weight = 5
+chapter = true
+pre = "<b>6. </b>"
++++
 
-## Content 
+## Engineering Softwares 
 
 1. [Software for Students](#software-for-students)
 	* [Multisim](#multisim)
@@ -14,13 +16,6 @@ weight: 2
 	* [LVSIM-EMS](#lvsim-ems)
 	* [RobotCell](#robotcell)
 	* [CNCmotion](#cncmotion)
-
-## ChromeBook and Mac Users 
-
-Many engineering programs cannot be run directly within the Mac operating system or in a Chromebook. However, student can have access to windows a virtual machine by login with your CUNYFirst credentials:
-
-- **Mac users:** download vmware client and follow installation steps from [here](https://www.cuny.edu/about/administration/offices/cis/virtual-desktop/installation/)
-- **Chromebook Users:** Follow this [instructions](/engineering/software/docs/chromebook.pdf) to install a have access to a Virtual Desktop on you ChromeBook
 
 
 ## LearnMate® Learning Management System
